@@ -9,8 +9,8 @@ print(attractive)
 print("Name is: "+name+", "+"age is: "+str(age)+", "+"she is attractive: "+str(attractive))
 
 #one line code
-first_name, last_name, age, isAttractive = "Bhanu", "pooja", 21, True
-print(first_name+last_name+" "+str(age)+" "+str(isAttractive))
+# first_name, last_name, age, isAttractive = "Bhanu", "pooja", 21, True
+# print(first_name+last_name+" "+str(age)+" "+str(isAttractive))
 
 #one line code with same value
 # bhanu = 25

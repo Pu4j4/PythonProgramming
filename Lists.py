@@ -57,4 +57,4 @@ dessert = ["cake", "icecream", "apricot delight"]
 
 foods = [drinks, dinner, dessert]
 print(foods)
-print(foods[1][2])
+print(foods[1])
